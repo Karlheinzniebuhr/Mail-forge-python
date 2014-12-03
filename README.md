@@ -10,3 +10,16 @@ there was a system called SMTP (Simple Mail Transfer Protocol) that was the prim
 
 We use python in orderr to send a mail from ANY mail address via Telnet, connecting with an SMTP server who don't requires
 autentication.
+
+
+
+INSTALLATION
+
+First you need to install DNSpython from https://github.com/rthalley/dnspython
+
+After downloading build and install dnspython, type
+
+    python setup.py install
+    
+    
+
